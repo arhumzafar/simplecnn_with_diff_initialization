@@ -8,7 +8,7 @@ Padding is when *we add an additional layer to the image in order to avoid shrin
 To get a better grasp of this, look at the attached image in this repository, where we see how output size, padding pixels, kernel size, and stride all contribute to our output.
 <br>
 <br>
-The following script goes through this process: convolving and padding a number of times, changing the dimensions of the image without loosing important information.
+The following script goes through this process: convolving and padding a number of times, changing the dimensions of the image without losing important information.
 <br>
 <br>
  
